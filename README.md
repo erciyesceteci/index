@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Satılık Web Sitesi</title>
+    Satılık Web Sitesi
 </head>
 <body>
     <h1>Satılık Web Sitesi</h1>
